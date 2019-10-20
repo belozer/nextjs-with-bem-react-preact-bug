@@ -10,6 +10,9 @@
 		"start": "cross-env NODE_ENV=production node server.js"
 	},
 	"dependencies": {
+		"@bem-react/classname": "^1.5.6",
+		"@bem-react/core": "^2.0.6",
+		"@bem-react/di": "^2.0.4",
 		"cross-env": "^5.2.0",
 		"module-alias": "^2.2.1",
 		"next": "^9.0.5",
