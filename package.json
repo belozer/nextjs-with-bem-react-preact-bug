@@ -15,7 +15,7 @@
 		"@bem-react/di": "^2.0.4",
 		"cross-env": "^5.2.0",
 		"module-alias": "^2.2.1",
-		"next": "^9.0.5",
+		"next": "^9.3.2",
 		"preact": "^10.0.0",
 		"preact-render-to-string": "5.0.6",
 		"preact-ssr-prepass": "^1.0.0"
